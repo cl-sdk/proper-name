@@ -1,0 +1,4 @@
+**/*.cov
+**/*.lisp.html
+**/coverage/*
+system-index.txt
